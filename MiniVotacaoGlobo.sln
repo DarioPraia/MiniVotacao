@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotarApi", "VotarApi\VotarApi.csproj", "{A540C31E-533A-465D-BC0A-6086EB21AEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotacaoConsumer", "VotacaoConsumer\VotacaoConsumer.csproj", "{39F7787C-BBBD-4F68-9E7D-F11232B907FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A540C31E-533A-465D-BC0A-6086EB21AEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A540C31E-533A-465D-BC0A-6086EB21AEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A540C31E-533A-465D-BC0A-6086EB21AEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A540C31E-533A-465D-BC0A-6086EB21AEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F7787C-BBBD-4F68-9E7D-F11232B907FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F7787C-BBBD-4F68-9E7D-F11232B907FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F7787C-BBBD-4F68-9E7D-F11232B907FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F7787C-BBBD-4F68-9E7D-F11232B907FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
